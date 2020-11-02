@@ -1,7 +1,7 @@
-﻿  LexDll.c
+﻿  dllmain.c
      Creating library G:\REPOS\LexCCS\LexDll\LexDll\bin\x64\Release\LexDll.lib and object G:\REPOS\LexCCS\LexDll\LexDll\bin\x64\Release\LexDll.exp
   Generating code
-  2 of 19 functions (10.5%) were compiled, the rest were copied from previous compilation.
+  0 of 19 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
