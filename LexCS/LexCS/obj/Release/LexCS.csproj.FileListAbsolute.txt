@@ -1,0 +1,6 @@
+G:\REPOS\LexCCSPY\LexCS\LexCS\bin\Release\LexCS.exe.config
+G:\REPOS\LexCCSPY\LexCS\LexCS\bin\Release\LexCS.exe
+G:\REPOS\LexCCSPY\LexCS\LexCS\bin\Release\LexCS.pdb
+G:\REPOS\LexCCSPY\LexCS\LexCS\obj\Release\LexCS.csproj.CoreCompileInputs.cache
+G:\REPOS\LexCCSPY\LexCS\LexCS\obj\Release\LexCS.exe
+G:\REPOS\LexCCSPY\LexCS\LexCS\obj\Release\LexCS.pdb

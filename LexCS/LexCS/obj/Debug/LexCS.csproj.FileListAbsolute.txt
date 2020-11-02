@@ -1,0 +1,14 @@
+G:\REPOS\LexCCS\LexCS\LexCS\bin\Debug\LexCS.exe.config
+G:\REPOS\LexCCS\LexCS\LexCS\bin\Debug\LexCS.exe
+G:\REPOS\LexCCS\LexCS\LexCS\bin\Debug\LexCS.pdb
+G:\REPOS\LexCCS\LexCS\LexCS\obj\Debug\LexCS.csprojResolveAssemblyReference.cache
+G:\REPOS\LexCCS\LexCS\LexCS\obj\Debug\LexCS.csproj.CoreCompileInputs.cache
+G:\REPOS\LexCCS\LexCS\LexCS\obj\Debug\LexCS.exe
+G:\REPOS\LexCCS\LexCS\LexCS\obj\Debug\LexCS.pdb
+G:\REPOS\LexCCSPY\LexCS\LexCS\bin\Debug\LexCS.exe.config
+G:\REPOS\LexCCSPY\LexCS\LexCS\bin\Debug\LexCS.exe
+G:\REPOS\LexCCSPY\LexCS\LexCS\bin\Debug\LexCS.pdb
+G:\REPOS\LexCCSPY\LexCS\LexCS\obj\Debug\LexCS.csprojResolveAssemblyReference.cache
+G:\REPOS\LexCCSPY\LexCS\LexCS\obj\Debug\LexCS.csproj.CoreCompileInputs.cache
+G:\REPOS\LexCCSPY\LexCS\LexCS\obj\Debug\LexCS.exe
+G:\REPOS\LexCCSPY\LexCS\LexCS\obj\Debug\LexCS.pdb
